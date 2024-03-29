@@ -35,9 +35,10 @@ a:active{
     color: white;
 }
 
-fieldset{
+.fs{
     width: 200px;
-    border-radius: 15px;
+    border-radius: 10px;
+
 }
 
 .ba{
